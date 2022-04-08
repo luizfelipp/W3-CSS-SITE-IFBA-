@@ -1,9 +1,18 @@
 .lista-top{
     display: inline;
 }
-.top{
-   margin-top: 0px; 
+.top{    
+   margin-top: 0px ;
+   width: 100%;
+   padding-top:10px;
 }
-*{
-    box-sizing: border-box;
+.titulo-portal{
+    margin-top:70px;
+}
+p{
+    text-align: justify;
+}
+body{
+   margin-left: auto;
+   margin-right: auto;
 }
